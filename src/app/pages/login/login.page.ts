@@ -3,6 +3,7 @@ import { NavigationExtras, Router } from '@angular/router';
 import { AlertController } from '@ionic/angular';
 import { DbService } from '../../services/bd.service';
 
+
 @Component({
   selector: 'app-login',
   templateUrl: './login.page.html',
